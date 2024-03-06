@@ -1,2 +1,2 @@
 # Diabates_dataset
-This a notebook showing machine learning classfication model on pima_indian diabetes dataset
+This notebook demonstrates the implementation of a machine learning classification model utilizing CatBoost on the Pima Indian Diabetes dataset.
